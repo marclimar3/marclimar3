@@ -1,1 +1,3 @@
-# marclimar3
+- 🔭 I’m currently working on git.
+- 🌱 I’m currently learning Java.
+- ⚡ Fun fact: yes.
