@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on git.
+- 🔭 I’m currently working on learning.
 - 🌱 I’m currently learning Java.
-- ⚡ Fun fact: yes.
+- ⚡ Fun fact: I'm a kebab enjoyer.
